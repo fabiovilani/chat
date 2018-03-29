@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Um chat web de salas para conferencias e conversas em grupos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiovilani/chat.git"
+  },
+  "author": "Fabio Vilani Peres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiovilani/chat/issues"
+  },
+  "homepage": "https://github.com/fabiovilani/chat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
